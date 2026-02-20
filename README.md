@@ -1,12 +1,11 @@
 # Khadra
-### _[Khadra focuses on converting agricultural residues into reusable products, reducing pollution while creating environmental and economic 
-value.]_
+### _Khadra focuses on converting agricultural residues into reusable products, reducing pollution while creating environmental and economic value._
 
 ##  Team Members
 - **[Youssef Hesham Ali]**(Team Leader)
 - **[Adham Hazem Ibrahim]**  
 - **[Abdelrahman Abdou]**  
-- **[Abdelrahman Gamal]**  ---
+- **[Abdelrahman Gamal]** 
 ##  Instructor
 **[Mostafa Mahmoud Thabet]**
 ---
